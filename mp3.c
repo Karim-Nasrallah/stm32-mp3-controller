@@ -1,7 +1,5 @@
 /*
-Name:   Karim Nasrallah
-Date:   7/24/26
-Assignment lab 4
+
 Youtube: https://youtube.com/shorts/EOvRSBnXCg0?si=rD6dYO5et_pY3gWV
 
 */
